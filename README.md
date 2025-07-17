@@ -101,7 +101,7 @@ ai-data-insight-portal/
 This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
 
 ## Contact
-For issues or suggestions, contact [your.email@example.com] or open an issue on GitHub.
+For issues or suggestions, contact [arnizz077@gmail.com] or open an issue on GitHub.
 
 ---
 
