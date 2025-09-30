@@ -1,4 +1,3 @@
-
 # AI-Powered Data Insight Portal
 
 A web application for analyzing and visualizing CSV data with AI-driven insights, featuring interactive data preparation, multiple chart types, and a user-friendly interface with hover animations.
